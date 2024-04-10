@@ -1,3 +1,1 @@
-This folder contains the code for generating the plots presented in the paper. 
-
-See main.m script for more details.
+The codes can be used to generate the simulation results in our NeurIPS 2023 paper titled "Complexity of Derivative-Free Policy Optimization for Structured H inf Control" https://proceedings.neurips.cc/paper_files/paper/2023/hash/1052b823a161aa2c808dd51c0f58dc37-Abstract-Conference.html
